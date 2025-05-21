@@ -94,7 +94,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "VPNRealb_92379686-🇳🇱Нидерланды § 0"
+        "🇳🇱 | Neon"
       ],
       "default": "auto",
       "interrupt_exist_connections": true
@@ -103,7 +103,7 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "VPNRealb_92379686-🇳🇱Нидерланды § 0"
+        "🇳🇱 | Neon"
       ],
       "url": "http://cp.cloudflare.com",
       "interval": "10m0s",
@@ -113,7 +113,7 @@
     },
     {
       "type": "vless",
-      "tag": "VPNRealb_92379686-🇳🇱Нидерланды § 0",
+      "tag": "🇳🇱 | Neon",
       "server": "185.157.214.133",
       "server_port": 443,
       "uuid": "VPNRealb_92379686",
@@ -207,7 +207,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "8MkcySmj94iDpUK0"
+      "secret": "gYb1Qmgw4jybpugN"
     }
   }
 }
