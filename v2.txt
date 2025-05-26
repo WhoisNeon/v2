@@ -1,5 +1,4 @@
-vless://1001f720-a764-4d98-85de-38aa0110202a@vless:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&type=tcp&headerType=none#%F0%9F%94%B4%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%20%D9%BE%D9%84%D8%B4%D8%AA%F0%9F%94%B4
-
+vless://1001f720-a764-4d98-85de-38aa0110202a@vless:443?encryption=none&flow=xtls-rprx-vision&security=none&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&type=tcp&headerType=none#%F0%9F%94%B4%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%20%D9%BE%D9%84%D8%B4%D8%AA%F0%9F%94%B4
 
 vless://4425dbd0-175c-491a-ad90-2558a17ff74f@a.nl.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
 vless://4425dbd0-175c-491a-ad90-2558a17ff74f@b.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam
