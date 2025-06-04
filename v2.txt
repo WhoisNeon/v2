@@ -7,3 +7,12 @@ vless://9b4701b2-7ff0-4997-8d4c-1463e6fd7fcf@e.nl.cdn.maviks.eu:443?security=tls
 vless://9b4701b2-7ff0-4997-8d4c-1463e6fd7fcf@nodes.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
 vless://dddf3e11-0418-4bc4-b250-8b152dfc417a@sub.shadow-net.ru:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hqIRwmdlHSr7b54QuWhv8Gv8994RcLPHfiCAP8LKvnU&sid=366a33788ea2&spx=%2FotHjUl20HNstVXZ&type=tcp&headerType=none#%F0%9F%8C%80%20Reality%20XTLS
+
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@185.36.145.192:14569?security=none&type=ws&headerType=&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048&host=185.36.145.192#Hotnet-Sweden
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@213.156.152.46:14569?security=none&type=ws&headerType=&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048&host=213.156.152.46#Hotnet-Turkey3%E2%AD%90%EF%B8%8F
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@37.130.205.206:9000?security=none&type=tcp&headerType=http&path=%2F&host=#Hotnet-Armanestan-T%E2%AD%90%EF%B8%8F
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@mf.iradsi.ir:8880?security=none&type=httpupgrade&headerType=&path=&host=#Finland-Hu
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@m3gh.ntondi.com:8880?security=none&type=httpupgrade&headerType=&path=&host=#Germanycom-Hu
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@doger.tin9.ir:8880?security=none&type=httpupgrade&headerType=&path=&host=#%E2%AD%90%EF%B8%8FGermanyPlus%E2%AD%90%EF%B8%8F
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@go.tondha.ir:8880?security=none&type=httpupgrade&headerType=&path=&host=#Germany6%28BEST%29
+vless://653c4d1c-2a4c-4ece-a2ac-713e911ce6db@g2.tond1.ir:8880?security=none&type=httpupgrade&headerType=&path=&host=#Hotnet-Germany2%E2%AD%90%EF%B8%8F
