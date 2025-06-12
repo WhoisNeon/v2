@@ -1,0 +1,1 @@
+vless://dddf3e11-0418-4bc4-b250-8b152dfc417a@sub.shadow-net.ru:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=chrome&pbk=hqIRwmdlHSr7b54QuWhv8Gv8994RcLPHfiCAP8LKvnU&sid=aa&spx=%2FUre3rtY3m6FEOAw&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20NoAd
