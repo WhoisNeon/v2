@@ -1,4 +1,4 @@
-
+vless://0f004e2c-4d95-4395-be2f-0ce81e807ca2@uk-company-alphaomega-team.1alphaomega.org:8443?encryption=none&security=tls&sni=UK-ComPany-AlphaOmegA-TeaM.1AlphaOmega.Org.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=xhttp&host=UK-ComPany-AlphaOmegA-TeaM.1AlphaOmega.Org.&path=%2F&mode=stream-one&extra=%7B%22scMaxEachPostBytes%22%3A%2B800000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B20%2C%2B%22xPaddingBytes%22%3A%2B%22400-1200%22%2C%2B%22noGRPCHeader%22%3A%2Btrue%7D#tem
 Tond/HotNet:
 vless://ea992be0-9fbc-4fd2-846b-a77f243b0fcb@185.36.145.192:14569?security=none&type=ws&headerType=&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048&host=185.36.145.192#Hotnet-Sweden
 vless://ea992be0-9fbc-4fd2-846b-a77f243b0fcb@213.156.152.46:14569?security=none&type=ws&headerType=&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048&host=213.156.152.46#Hotnet-Turkey3%E2%AD%90%EF%B8%8F
